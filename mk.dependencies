@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_lge_d855",
+    "target_path": "vendor/lge/d855"
+  },
+  {
     "repository": "android_device_lge_g3-common",
     "target_path": "device/lge/g3-common"
   }
